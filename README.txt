@@ -1,3 +1,6 @@
+Final version of the code hosted at: https://github.com/SND96/TSP-Project
+Contributors: Sahith Dambekodi, Monica Gupta, Sanmeshkumar Udhayakumar and Christopher Fleisher.
+
 There are two main folders and the make file:
 - code
 	- bnb.cpp                               branch and bound code
@@ -14,7 +17,6 @@ There are two main folders and the make file:
 - DATA
 
 The output folder containts all .sol and .trace files.
-The DATA folder is not included in the submission, but must be relatively present as illustrated above.
 
 Example of how to compile the make file:
 ./main -inst Cincinnati.tsp -alg LS2 -time 13 -seed 3
