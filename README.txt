@@ -1,4 +1,4 @@
-Final version of the code hosted at: https://github.com/SND96/TSP-Project
+This repo hosts the final version of the code hosted at: https://github.com/SND96/TSP-Project
 Contributors: Sahith Dambekodi, Monica Gupta, Sanmeshkumar Udhayakumar and Christopher Fleisher.
 
 There are two main folders and the make file:
