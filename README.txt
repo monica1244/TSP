@@ -14,7 +14,6 @@ There are two main folders and the make file:
 - DATA
 
 The output folder containts all .sol and .trace files.
-The DATA folder is not included in the submission, but must be relatively present as illustrated above.
 
 Example of how to compile the make file:
 ./main -inst Cincinnati.tsp -alg LS2 -time 13 -seed 3
