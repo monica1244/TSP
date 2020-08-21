@@ -18,7 +18,8 @@ There are two main folders and the make file:
 	- TSP-main.cpp:                          tsp-main calls functions from the 4 algos codes<br>
 - output<br>
 - main                                          make file<br>
-- DATA<br><br>
+- DATA<br>
+
 The output folder containts all .sol and .trace files.
 
 ### Usage
