@@ -6,16 +6,16 @@ In this repo, we provide 4 ways of solving the TSP problem by using Branch and B
 
 ### Folder structure
 There are two main folders and the make file:
-- code
-<&nbsp>	- bnb.cpp                               branch and bound code<br>
-	- bnb.h                                 branch and bound header file<br>
-	- genetic_algo.cpp                      local search 2 code<br>
-	- genetic_algo.h                        local search 2 header file<br>
-	- prim_dfs.cpp                          approximation algo code<br>
-	- prim_dfs.h                            approximation algo header file<br>
-	- simulated_annealing.cpp               local search 1 code<br>
-	- simulated_annealing.h                 local search 1 header file<br>
-	- TSP-main.cpp                          tsp-main calls functions from the 4 algos codes<br>
+- code<br>
+	- bnb.cpp:                               branch and bound code<br>
+	- bnb.h:                                branch and bound header file<br>
+	- genetic_algo.cpp:                      local search 2 code<br>
+	- genetic_algo.h:                        local search 2 header file<br>
+	- prim_dfs.cpp:                          approximation algo code<br>
+	- prim_dfs.h:                            approximation algo header file<br>
+	- simulated_annealing.cpp:               local search 1 code<br>
+	- simulated_annealing.h:                 local search 1 header file<br>
+	- TSP-main.cpp:                          tsp-main calls functions from the 4 algos codes<br>
 - output<br>
 - main                                          make file<br>
 - DATA<br><br>
