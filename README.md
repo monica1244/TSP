@@ -1,5 +1,5 @@
 ## Traveling Salesman Problem
-### Course Project for CSE 6140: Algorithms (Prof. Xiuwei Zhang) @ Georgia Institute of Technology
+#### Course Project for CSE 6140: Algorithms (Prof. Xiuwei Zhang) @ Georgia Institute of Technology
 
 ### 4 Algorithms for TSP
 In this repo, we provide 4 ways of solving the TSP problem by using Branch and Bound, Genetic Algorithm, Simulated Annealing and Approximation approaches.
@@ -7,7 +7,7 @@ In this repo, we provide 4 ways of solving the TSP problem by using Branch and B
 ### Folder structure
 There are two main folders and the make file:
 - code
-	- bnb.cpp                               branch and bound code
+	- bnb.cpp<\t>                               branch and bound code
 	- bnb.h                                 branch and bound header file
 	- genetic_algo.cpp                      local search 2 code
 	- genetic_algo.h                        local search 2 header file
@@ -23,9 +23,9 @@ There are two main folders and the make file:
 The output folder containts all .sol and .trace files.
 
 ### Usage
-There are comman line arguments for providing the input file name, algorithm type, time limit and random seed.<br>
+There are comman line arguments for providing the input file name, algorithm type, time limit and random seed.<br><br>
 Example of how to compile the make file:<br>
-./main -inst Cincinnati.tsp -alg LS2 -time 13 -seed 3<br><br>
+./main -inst Cincinnati.tsp -alg LS2 -time 13 -seed 3<br>
 
 (ignore the warnings)
 
