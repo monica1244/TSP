@@ -5,9 +5,9 @@
 In this repo, we provide 4 ways of solving the TSP problem by using Branch and Bound, Genetic Algorithm, Simulated Annealing and Approximation approaches.
 
 ### Folder structure
-There are two main folders and the make file:
+<p>There are two main folders and the make file:
 - code
-	- bnb.cpp                               branch and bound code
+<&nbsp>	- bnb.cpp                               branch and bound code
 	- bnb.h                                 branch and bound header file
 	- genetic_algo.cpp                      local search 2 code
 	- genetic_algo.h                        local search 2 header file
@@ -19,7 +19,7 @@ There are two main folders and the make file:
 - output
 - main                                          make file
 - DATA
-
+</p>
 The output folder containts all .sol and .trace files.
 
 ### Usage
