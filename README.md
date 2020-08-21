@@ -5,21 +5,20 @@
 In this repo, we provide 4 ways of solving the TSP problem by using Branch and Bound, Genetic Algorithm, Simulated Annealing and Approximation approaches.
 
 ### Folder structure
-<p>There are two main folders and the make file:
+There are two main folders and the make file:
 - code
-<&nbsp>	- bnb.cpp                               branch and bound code
-	- bnb.h                                 branch and bound header file
-	- genetic_algo.cpp                      local search 2 code
-	- genetic_algo.h                        local search 2 header file
-	- prim_dfs.cpp                          approximation algo code
-	- prim_dfs.h                            approximation algo header file
-	- simulated_annealing.cpp               local search 1 code
-	- simulated_annealing.h                 local search 1 header file
-	- TSP-main.cpp                          tsp-main calls functions from the 4 algos codes
-- output
-- main                                          make file
-- DATA
-</p>
+<&nbsp>	- bnb.cpp                               branch and bound code<br>
+	- bnb.h                                 branch and bound header file<br>
+	- genetic_algo.cpp                      local search 2 code<br>
+	- genetic_algo.h                        local search 2 header file<br>
+	- prim_dfs.cpp                          approximation algo code<br>
+	- prim_dfs.h                            approximation algo header file<br>
+	- simulated_annealing.cpp               local search 1 code<br>
+	- simulated_annealing.h                 local search 1 header file<br>
+	- TSP-main.cpp                          tsp-main calls functions from the 4 algos codes<br>
+- output<br>
+- main                                          make file<br>
+- DATA<br><br>
 The output folder containts all .sol and .trace files.
 
 ### Usage
