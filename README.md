@@ -35,4 +35,4 @@ Monica Gupta @ https://github.com/monica1244<br>
 Sanmeshkumar Udhayakumar @ https://github.com/sanmesh1<br>
 Christopher Fleisher @ https://github.com/gravaman
 
-This repo hosts the final version of the code hosted at: https://github.com/SND96/TSP-Project
+This repo hosts the final version of the code hosted at https://github.com/SND96/TSP-Project
